@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  token_crawler:
+    build: .
+    container_name: token_crawler_once
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+      - ./pages:/app/pages
+    command: python gmgn_token_info_crawler.py
