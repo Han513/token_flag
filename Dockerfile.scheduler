@@ -1,0 +1,26 @@
+FROM python:3.9-slim
+
+# 設置工作目錄
+WORKDIR /app
+
+# 複製依賴文件
+COPY requirements.txt .
+
+# 安裝依賴
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 複製應用代碼
+COPY . .
+
+# 創建日誌目錄
+RUN mkdir -p logs
+
+# 設置時區為 UTC+8
+ENV TZ=Asia/Taipei
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+# 暴露端口（如果需要）
+EXPOSE 8000
+
+# 啟動定時任務
+CMD ["python", "start_scheduler.py"] 
