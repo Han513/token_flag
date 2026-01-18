@@ -88,7 +88,7 @@
         "twittera_name": "Cented 🇨🇦",
         "twitter_username": "Cented7",
         "chain": "SOLANA",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "DtvmxrTACskMG2W8a6KXgSemUfvyNVeQTgfpJoGvMVKx",
@@ -172,7 +172,7 @@
         "twittera_name": "Limfork.eth",
         "twitter_username": "Limfork",
         "chain": "SOLANA",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "9qKxvLp179YQRZ4P5oExBX9NR7huZGJMbukPdjHQRBT",
@@ -312,7 +312,7 @@
         "twittera_name": "decu",
         "twitter_username": "notdecu",
         "chain": "SOLANA",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "5C5RjP6bQWy2KkEJ9YCZcf64aXmSMX42tX1tR1Uj7wP2",
@@ -700,20 +700,6 @@
         "tag": "smart_degen_pump_smart"
     },
     {
-        "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
-        "twittera_name": "Cented 🇨🇦",
-        "twitter_username": "Cented7",
-        "chain": "SOLANA",
-        "tag": "renowned"
-    },
-    {
-        "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
-        "twittera_name": "Limfork.eth",
-        "twitter_username": "Limfork",
-        "chain": "SOLANA",
-        "tag": "renowned"
-    },
-    {
         "address": "67LwNGrukVFFcA1XZQ9U8ddZGCBuPvPHgMxw81AeRtQ7",
         "twittera_name": "1King Forever",
         "twitter_username": "xKingForever",
@@ -731,13 +717,6 @@
         "address": "AeLaMjzxErZt4drbWVWvcxpVyo8p94xu5vrg41eZPFe3",
         "twittera_name": "^1s1mple",
         "twitter_username": "s1mple_s1mple",
-        "chain": "SOLANA",
-        "tag": "renowned"
-    },
-    {
-        "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
-        "twittera_name": "decu",
-        "twitter_username": "notdecu",
         "chain": "SOLANA",
         "tag": "renowned"
     },
@@ -1431,8 +1410,8 @@
         "address": "0xa83b73f5644cde337b61da79589f10ea15548811",
         "twittera_name": "AntPositions(蚂蚁仓）☄️",
         "twitter_username": "antpositions",
-        "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0xedc7acf788cbadbca9576194eb0b57bef1cccb05",
@@ -1452,8 +1431,8 @@
         "address": "0x0314e136b60931c443d352eb083af26c04db3f12",
         "twittera_name": "Chenpepe",
         "twitter_username": "GoldenPepeCabal",
-        "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0x707346a3b3a65d241be26dc98a27e86a98b3ba7d",
@@ -1634,8 +1613,8 @@
         "address": "0x92c371744e71dbe58c603661ba8784fd76472e1b",
         "twittera_name": "CryptoLucky🔶",
         "twitter_username": "sol_lucky_",
-        "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0x32eeb57b9c8ac30185e29464e53a924a9e305bc8",
@@ -1744,10 +1723,10 @@
     },
     {
         "address": "0xa05ec35f7d1eba823cff2ed26aeaed419683742f",
-        "twittera_name": "",
-        "twitter_username": "",
+        "twittera_name": "yukaz",
+        "twitter_username": "0xyukaz",
         "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "0xb24cff7c3ec0283a50112b09779645a1c5d3c846",
@@ -1887,21 +1866,21 @@
         "twittera_name": "每天都在睡觉🔸BNB",
         "twitter_username": "Jayhanson66",
         "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3",
         "twittera_name": "降雨幾率",
         "twitter_username": "run1ooooo1",
-        "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0xbf004bff64725914ee36d03b87d6965b0ced4903",
         "twittera_name": "阿峰_AFeng",
         "twitter_username": "aa_AFeng",
-        "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0x1b7f78d9ba80fa02161fe322eaf2d59e494eda79",
@@ -1950,7 +1929,7 @@
         "twittera_name": "ozark",
         "twitter_username": "ohzarke",
         "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "0x55e8ea28f268bc35d7e3c1d1134bbc56b74357c3",
@@ -2005,8 +1984,8 @@
         "address": "0x077b9981bc8a2ca417cea41861111da63266988b",
         "twittera_name": "clukz",
         "twitter_username": "clukzSOL",
-        "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0x1f8b458a5d3a289a6404aa18fe18f496260ef0a1",
@@ -2062,7 +2041,7 @@
         "twittera_name": "milito",
         "twitter_username": "fnmilito",
         "chain": "BSC",
-        "tag": "smart_degen_pump_smart"
+        "tag": "renowned"
     },
     {
         "address": "0xfba5b57b287bdea66dff886abf3c971871c6609a",
@@ -2093,13 +2072,6 @@
         "tag": "smart_degen_pump_smart"
     },
     {
-        "address": "0x0314e136b60931c443d352eb083af26c04db3f12",
-        "twittera_name": "Chenpepe",
-        "twitter_username": "GoldenPepeCabal",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
         "address": "0x7a2363a401b2340c7941dd2eeff0196a5078d2e6",
         "twittera_name": "金狗挖掘机 | 0xDavid",
         "twitter_username": "HunterOnlyETH",
@@ -2124,13 +2096,6 @@
         "address": "0x6df7f71f8c9786dcbb127bb957e3ec9695d7a66e",
         "twittera_name": "oooooyoung(吸吸喜气欧皇版)",
         "twitter_username": "ouyoung11",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
-        "address": "0x92c371744e71dbe58c603661ba8784fd76472e1b",
-        "twittera_name": "CryptoLucky🔶",
-        "twitter_username": "sol_lucky_",
         "chain": "BSC",
         "tag": "renowned"
     },
@@ -2276,7 +2241,7 @@
     },
     {
         "address": "0xb9b0252f780ef21aa3c8b3d6bd6ea19c0231edc3",
-        "twittera_name": "bayue",
+        "twittera_name": "bayue🔶BNB",
         "twitter_username": "Researchcai",
         "chain": "BSC",
         "tag": "renowned"
@@ -2324,30 +2289,9 @@
         "tag": "renowned"
     },
     {
-        "address": "0x3f1348871aa393e38c5632853938598979ac2b2a",
-        "twittera_name": "每天都在睡觉🔸BNB",
-        "twitter_username": "Jayhanson66",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
         "address": "0x390f3d72b6e4621ae58f44e368b26c63d330e263",
         "twittera_name": "花开富贵BNB🔸BNB",
         "twitter_username": "iurttkx",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
-        "address": "0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3",
-        "twittera_name": "降雨幾率",
-        "twitter_username": "run1ooooo1",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
-        "address": "0xbf004bff64725914ee36d03b87d6965b0ced4903",
-        "twittera_name": "阿峰_AFeng",
-        "twitter_username": "aa_AFeng",
         "chain": "BSC",
         "tag": "renowned"
     },
@@ -2362,13 +2306,6 @@
         "address": "0xe826dd0be78361417809520d292009d7c9d303e9",
         "twittera_name": "小鱼Daisy🔶BNB",
         "twitter_username": "vvxiaoyu8888",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
-        "address": "0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe",
-        "twittera_name": "ozark",
-        "twitter_username": "ohzarke",
         "chain": "BSC",
         "tag": "renowned"
     },
@@ -2460,13 +2397,6 @@
         "address": "0xa4f1d968c7b2580efe01cfff3e9c627060618cd0",
         "twittera_name": "Henrique",
         "twitter_username": "aoulss",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
-        "address": "0x077b9981bc8a2ca417cea41861111da63266988b",
-        "twittera_name": "clukz",
-        "twitter_username": "clukzSOL",
         "chain": "BSC",
         "tag": "renowned"
     },
@@ -2667,13 +2597,6 @@
         "tag": "renowned"
     },
     {
-        "address": "0xd41feaa24dede516a501862cf1f376defb811772",
-        "twittera_name": "milito",
-        "twitter_username": "fnmilito",
-        "chain": "BSC",
-        "tag": "renowned"
-    },
-    {
         "address": "0x74f82835b3446c8772634a1b4043eb1884677dfc",
         "twittera_name": "花开富贵BNB🔸BNB",
         "twitter_username": "iurttkx",
@@ -2705,8 +2628,8 @@
         "address": "0x9dbfded199ee3a6b291c223e65f97d387156aada",
         "twittera_name": "Zemrics",
         "twitter_username": "Zemrics",
-        "chain": "BSC",
-        "tag": "renowned"
+        "chain": "BASE",
+        "tag": "default"
     },
     {
         "address": "0x9897b49174dc565730ef1d116d80081574ccb3ec",
@@ -2791,5 +2714,2784 @@
         "twitter_username": "mxi46636628",
         "chain": "BSC",
         "tag": "renowned"
+    },
+    {
+        "address": "4NF5nNZa75iAMz5BPnxZmrUrzZQ23ndeZFSNXfhGzbKt",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GNoYNXQ66dnTqcR39nKi2QJSizjxvHHAy9GSbNszQuuq",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Cd7Qyex8ZtQc2KqRZCNdbBncmkbSV3AcUQedZxKEpW9J",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GvmgmxkE7ed9b74YigRuNeAS6rSnpCAUbjtK4Wc8ed4S",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8CAdbqSDJP2xhBbXyHxkhmVNCk57UbKRYSmruCyR25rm",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HSsJjkHrxezZ1SdhgdivhDGXbxANicWbKvKsVtrMrJvG",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HrtVLLCBM4LXfRGLGcXBYvkkJ9xnbiJ3ob1MxKdmNs7o",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "FcBdvzv2WkdDaUSbqzRLx1Xbp3rhNmNPM4PtGuoBg9Qy",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HpLB9MPL7VoxQZQffFtTX5Lm5mdreykrwVP9omqK6k1P",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Haf6KykEE9Em3fdpSNzgZnMGiLqyDBDAZ1rBdbTF5Qtf",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "J7GR6XoJfCPwZumW9xZ1nbWkyaq1oYSQuSVmCdBTx6Nf",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "CzeYKKJJNakBSqPP4i9AQ5GvmFZvTmkWwwfUj1zVYtYV",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "4oqLr7WAC6VeLWnhDkw8QA4HFbxsT8iAgNbCXmNJzexZ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "6M5RVmYj4FNoiYKbcXKo8QV3soYwCfbTY8VwAemCvjMq",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "CrTqb4VLdWip8cRVE53q3YMdDJsTt6ZdYkCEGPKakJh5",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "DqD9b5LZK8RRXkfXQNF97e6HTcfZ8XsYNdAN2kNdGNty",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "9nHkJPoPwKdwDWNt3HdC753R1WjyBcuXLg5HQsxZtMiv",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "QLoFd19hfbzVYmapPpeCwyqtGs5rxTPnonZiUbLS94L",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "66LxmyRcyoKV9MxfVN8gHfABfC9gK2k1v4XuGoehUVqJ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "7gVVprNBcdcxaxUdvqCUaW9GoJvd4Ua51pabDDNsrWsc",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "9LxMdvs1m8QRFvFuhvzzMXykAkpaHTJhktULdpBztUMm",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HZyJNKiMYYgpvd7xK36tGkdG1xf9SkNQjNy8koSDcGyA",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "9Q7EYG88KYKjBwbbiNwqpwXL5HAM4Jd4b5ETjhAeQF5n",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "3maRHEnuzorWNMa2qjkt7PxwEGSwxKs1CKTgWwRLFAqL",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "5xnk4udTBG4HVrxMqHf66NGKUnvoYzR2GLY4haD7ir1C",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "J669rmbZZriWmwM3oXT9Av8GB5AXxCCucXEHp2eKeHaL",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8fsKLLtvKNanL4ginCaiRS6UfeemY11rSf8U8fN1dJw4",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "onK5ruraCpbvjzWjqvJ3uBXgXapNX6ddB799qsNipeR",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "DHDhS1jUa1PkJmkqNqAnAzYYfC4y2Xkc5TpKUWKGMaSe",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Cu9M32oSJ2FmgHovUs5XqBoa49kmMeb3E6TkDemEk92X",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "2nHsHJpkXmHb43BqSjnQFMbUcU2kWEqFqoXsbe2zv2Wi",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "DCT6CJp4qHwD8LmwxXuKsQBcuTnT5MnogX2wM5BoHM4D",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "wNdEMuFn2FX398JayuxBb6JsGHwhs8vR3iCnjVtFbuK",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "43saJpm9NVHAueFZqRZAivm1vHFWjU5s45bZKdiaJuKY",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "7gdo83WqcXvown8aHUrgma716BEwGdjRA9CtdUThBy5U",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "CxMNfL7JAFon8MkjGvFRodsJ9Fzi4ZCQ4QKBNhhDgb2Q",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8b9UDcVFQCAxm1tzUPvqozGMmx1FqUHaygsGYL6PxruN",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "DXq2nz7p9pwsHs63cJAzqHtUAUS5bcsvLJe7Yk7LBW4m",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "7hDTvCvBGfwFVHjF2LLJu5md6iDRdLgKe7MZUKTR4ySv",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "AHAdqWFBytsLconW4dagmssCWXZbZhzf9GAdsuvoCnp6",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "4t7kZeC8XdF8rUiyFQRfiezAnkJXVaWifSwpp9gbFL5F",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "ATnBKpNZ5bgjrTqHKpNo6ww7dF5nBtuk6rmkaW2S78Tb",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "4R5tcc5fbcsA2MESVicBS1eNsKbFQdsWikxY2hTATUDq",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8aYA62aDxTeYFjb8yoRyYhHnw8EKqffZwGUig96FF9KJ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "7VBYPqukFknAYgygqsZ1kwbaKfP8gA198BwwECrnCPSW",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "3c4gU9agn7FRJU6BFLz95aXq3r35gsf2wk9TL9cYJvSQ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "9qNzEYoWY26KnGw57pVMc7aqFf2xiiRjgSEMptEm1JNQ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "3DcVk9QcL631G2oswaXiqLLJkCqUx1hX23kAY9C3PR2A",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Dz7ve2Tdzt58SCctoCkNKe4MdT1VZ5vMH3iAhynFxjec",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "949APRyGGYvpEoNmN3tu1cMzYEHXLExKRVcu4VwrnvJV",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "JDWErnwoWcQ81bdAZEbZ6dmYpkfAsf3NoJ739WxPkFRx",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HypEBFQPhNe2yZ4q3sUYLDHU6E9EiY4JAkRzybgRi1dh",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Bc4U4zvJRYL2n39XkQBgCgdRfacR6zinjf7nfuegx2Kc",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "A7odEcn7k43iEhDxAiP9CMb8pDupnRxd5s6s4aWXbZWD",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "2Tubh2qRZxZkggrV6X7zavNm8Dc9RBqfZohMfyRu3coj",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "DuVwdRjJMDx4Z1p2kqBZdHyh39vXUpFAV9dvXcpWfhg1",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "B9kJYdzb4gB9AC3aFChReDhJ2D5YDCaR4UrEoen2NcyC",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HEWQ74EwriwT3evTBVxwhv2PNWsr57WTMwzSa5U2iqyL",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "79eMVGwFUS1aVAzDBcPF5tkbW9mJyMuxssaAmRdC71RR",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "7C5Nh2YTLrabWh2J5GoksyEMuRKh4BUQmgW8ieJ1jsPN",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "9oaajZ9kYskTdkiUFpv9PeiP2ie3c845qMQ89Z6r6iNf",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8wTSecyFE3SniSFSzJvoKmW3JdXkJLuZbxuiM7XLu5W6",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "A9GF8mUpnVSbWsFdGj5uxj91kz1BccfftDrHpMz6TcXo",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GSDpa2afjotScQouoQdSUvj4Z4R6gBN7wqjSfY1Mfe43",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "6qudAN2kV8mtCcYJxb5QQ6Vr15itdHHdeVbYm99NKMhy",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HiK8buhCxdD1JLKonZMp29TNpz4KD8M2gTSrxiva5JH9",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8msKHk3fCHmBaAXdLeBexd1qRsCbNxUE88jtZf5hqYgn",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "6EsoRAnuERkz7nspZkXaxftLfqbHouuLjei9ty5ihBhM",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GBeuq1LCo7A1VvZ5cwAQWKqXZXwemrLW97qAMF9YKpz7",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "BN6ydU3RguK2JR3fBYeNuPNtukoZnaqXd71Wa1LtRDNK",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "kEePLJBkMsNxntNzu2t27aC39Z5iwpsbxyFQqjZDd5A",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "NiG69uNGTpQRoFYQEXnWAdQcYMEFxknpKwK7dg1RAPr",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GAtEWHWWAhT89Hmyfy5qrmJmfYViwRY9m63gToXYVyXY",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GcHbjgQZDLRpDKPK1dULWF2JCv69jHLMDoJHDWMjc4wW",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "75PPukvH1fNoBDJtR3FxHSn1bNCpYqgHb8c97jZVztq4",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "8MN9d5Av4EfHj2NpeBR95oWfoL9wpTa7jKfX3cW7ndxQ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "CF5CuELNjj5H89hroSrcRmeRD4ScMEPCw1tLdsjBwuHT",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "4gLZztSiwUnQtbqzc6sJrTjfgA5RCweHgokiLgEWPn3u",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "DSiaKDbEn7Yw8vqgMgbKK8w7d9rjoYxnsTXiWEetCpEt",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "EDNxH9AZcsjmnxFcreW5mZTk5vrZze3s21LB7QP2ZFQA",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "7aP7sVGfAf78u2Ad8bXrj5qDM5Z7kaqTmivWsiJeRAkY",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HL6pzyp3S5Sxq5wXeGhF9btxAsCRM4w7Mbbc1jBarCd2",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Xh2Y84WN8t3ZEKbwkDRT1ap5thJUAf3Ndv44wbbEXxX",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "5kWMEEF6Qiq8f7sGwWRoDz9r9NErn7mgXG1zuV3PKooz",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "GGpUpy2cJow2TSYd1XYUV8dfgt9xppDjy4Zd69Kh6sdm",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "3nG9zBc6fTne3j9kkS1CB5quyt25CS29GEjvMGNKmDSz",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "ASgZUqMLLHuL4vp12EhyW5sjK9oRSPefzh7WcBJsEirR",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "F796qGNaN6bFuWZbd3DwbFtQQwndpj4FWbc4z8eeGifE",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "49K1JnZ15oFtaZY9SkSQ1ba15AkpwBzZywTqRB8CLGUQ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "9vZbQFMbTJZBRQyKBwGgKEYP3tTZcxy7CyRAtMmky9Rb",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "5BXWrJKgjVsAdXVChzXo9B5gAp2G5DL27aC5fn9PHxus",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "ACp9B94HaNELWmcf2941kUKMGz8AMQHEBJsM4s6UBEKN",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "HbeG8DzbZRmavCbJy89gx5ZeAzvt6GZwLevSRmm7JT3B",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "Efi6AsCveEpeM8hNvvGumD7bR2wyHPzMicctmgEMMznQ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "AYE3LUBgneF9KruFM1brWnQJnu2YMdorodLt6xmeyRCm",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "5fY2VPNQhFxKNbbSfZHZqHCW7CGBNim3PyVXyMXGqeSZ",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "6w76wqCY64dMtd8LMmVTfoVNrDk5spEAY333yV1ugEbi",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "ADvatX4sqvxQqjTMpHubWQYmMqeP7fSYYDLMf4frmHu9",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "SOLANA",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK",
+        "twittera_name": "Cupsey",
+        "twitter_username": "Cupseyy",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "mW4PZB45isHmnjGkLpJvjKBzVS5NXzTJ8UDyug4gTsM",
+        "twittera_name": "Dex",
+        "twitter_username": "igndex",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+        "twittera_name": "nyhrox",
+        "twitter_username": "nyhrox",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "89HbgWduLwoxcofWpmn1EiF9wEdpgkNDEyPjzZ72mkDi",
+        "twittera_name": "AlxCooks",
+        "twitter_username": "AlxCooks_off",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "DuQabFqdC9eeBULVa7TTdZYxe8vK8ct5DZr4Xcf7docy",
+        "twittera_name": "Orangie",
+        "twitter_username": "orangie",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4uCT4g7YHH4xxfmfNfKUDenwGrRNGoZ9Ay1XFxfUGhQG",
+        "twittera_name": "Esee",
+        "twitter_username": "chingchong6257",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "2kv8X2a9bxnBM8NKLc6BBTX2z13GFNRL4oRotMUJRva9",
+        "twittera_name": "GH0STEE",
+        "twitter_username": "gh0stee",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "719sfKUjiMThumTt2u39VMGn612BZyCcwbM5Pe8SqFYz",
+        "twittera_name": "FASHR",
+        "twitter_username": "FASHRCrypto",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "BCnqsPEtA1TkgednYEebRpkmwFRJDCjMQcKZMMtEdArc",
+        "twittera_name": "kreo",
+        "twitter_username": "kreo444",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "2yAVPGXFQV9ZnqT4CQphXwXFpTtgZEwRq4JmbQN3HEdn",
+        "twittera_name": "Ax.",
+        "twitter_username": "king66880687",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4NtyFqqRzvHWsTmJZoT26H9xtL7asWGTxpcpCxiKax9a",
+        "twittera_name": "Inside Calls",
+        "twitter_username": "insidecalls",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "ENkZtLj1onzQRGnEeRkQfFzBeeY2dCeiQMXDzh8XbQbj",
+        "twittera_name": "Game",
+        "twitter_username": "game_for_one",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4YzpSZpxDdjNf3unjkCtdWEsz2FL5mok7e5XQaDNqry8",
+        "twittera_name": "xunle",
+        "twitter_username": "xunle111",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "G5KeBuoDtmBrRQt9fMy29FCUSXDWMwHe7W4skfwDtURv",
+        "twittera_name": "Whale 鲸鱼 .,.",
+        "twitter_username": "chinapumprocket",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "8Yzhb5bE4HLc7yueE9rTLLrmoE56iv7rtsKnvKpohM8Z",
+        "twittera_name": "Panda of Asia Street⚡️",
+        "twitter_username": "PandaAsiaStreet",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "BaLxyjXzATAnfm7cc5AFhWBpiwnsb71THcnofDLTWAPK",
+        "twittera_name": "peely 🍌",
+        "twitter_username": "0xpeely",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "AAMnoNo3TpezKcT7ah9puLFZ4D59muEhQHJJqpX16ccg",
+        "twittera_name": "sarah milady",
+        "twitter_username": "saracrypto_eth",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "CmTgwRPfKmuyoWnJrJDzPzw2GP43aZSTvVM7TtpcfYod",
+        "twittera_name": "Hope🔸乐观🟧🟩🟪🟨",
+        "twitter_username": "113_hope",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "Enjoy9BmQgAUD9AKC4HpUbHByVdzwp7jQppKukEvdyWm",
+        "twittera_name": "Enjooyer",
+        "twitter_username": "0xEnjooyer",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "AtmeWwb6Y6KNDgu2dPJT5dsar84bFCbNxLiW2DyYfm8p",
+        "twittera_name": "Sizeab1e",
+        "twitter_username": "sizeab1e",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "DxM1hfY8FQ8dNGrucuJzhJcF8KRbjk8WBwrgKvQ9spPv",
+        "twittera_name": "RC",
+        "twitter_username": "ResellCalendar",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "5XVKfruE4Zzeoz3aqBQfFMb5aSscY5nSyc6VwtQwNiid",
+        "twittera_name": "I̶l̷y̶",
+        "twitter_username": "rightily",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "8E1G1qWQZERejrGLF1ye66cx1xBUGp2Tahh6tTGYsPsB",
+        "twittera_name": "加密帅",
+        "twitter_username": "xlxl114",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "AEDo12xU8tp7fAhBLWCFuYPZ6FB5awApcfXNyauRmFnE",
+        "twittera_name": "0xAlbania",
+        "twitter_username": "0xAlbania",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "9ZFAgg82Ud8qxWmwyrEar2t5NWaWstcRFoKKJZEYQndS",
+        "twittera_name": "Brookly",
+        "twitter_username": "Peterbrookly",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "GM7Hrz2bDq33ezMtL6KGidSWZXMWgZ6qBuugkb5H8NvN",
+        "twittera_name": "Beaver 🦁",
+        "twitter_username": "beaverd",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "GJyhzLoZAxZHZGPvF3V1wsyGUnoGSQ55n6hN6nHv7W8B",
+        "twittera_name": "LilMoonLambo",
+        "twitter_username": "LilMoonLambo",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "CAmLQkVedWM4YY6WyMQyjASnXMb8qbpJEvtyQbeTEA31",
+        "twittera_name": "XiaoXin|201.eth",
+        "twitter_username": "0xXiaoxin",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "FBXi4DS1Lnb8btUy6RFrZJn67dJwCUvz69HLLbXQtuxW",
+        "twittera_name": "K99 | 1000X GEM",
+        "twitter_username": "K99eth",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "ESwdWuCTSRZnKRNXoyi1RP7ysuDkbDX3TQGWqxfjjKeN",
+        "twittera_name": "PandaPunk",
+        "twitter_username": "realpandapunks",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4ZdCpHJrSn4E9GmfP8jjfsAExHGja2TEn4JmXfEeNtyT",
+        "twittera_name": "robo",
+        "twitter_username": "roboPBOC",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "FopcXZW1TFpQN9Vbvet7uxMv3ukjED4M91VVviHpjGdm",
+        "twittera_name": "基恩-Keane 🌊",
+        "twitter_username": "esrhengwu",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "EKLaPzT4FVyT8HWMaLyKWsMNr3cCJByxtU9jT8yfoNo4",
+        "twittera_name": "tu tu candy",
+        "twitter_username": "tutucandybaby",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "64ymeD9XTAkNJgHtXgrG6JCNZmBC9fSVcmgkL54pFikE",
+        "twittera_name": "Phineas.SOL",
+        "twitter_username": "Phineas_Sol",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "DP7G43VPwR5Ab5rcjrCnvJ8UgvRXRHTWscMjRD1eSdGC",
+        "twittera_name": "Kagami",
+        "twitter_username": "yenhong123",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4AHgEkTsGqY77qtde4UJn9yZCrbGcM7UM3vjT3qM4G5H",
+        "twittera_name": "BagCalls 🎒",
+        "twitter_username": "BagCalls",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "25fbgxUaUZkjHnNHBSbGYmjyV5vMDNvyqFBLZKHDKQvg",
+        "twittera_name": "摸金校尉 | 0xBclub | 🔶 BNB MemeMax⚡️",
+        "twitter_username": "0xBclub",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4s2WzRLa35FB58bZY1i4CN3WoywJeuYrGYHnTKFsT23z",
+        "twittera_name": "jester",
+        "twitter_username": "thejester",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "4VnxuyQku3KAbkt7UohPSyRThyb9gUZNMkYpvzHXpgHF",
+        "twittera_name": "Cryo Palmar",
+        "twitter_username": "CryoPalmar",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd",
+        "twittera_name": "0xuezhang|985.eth",
+        "twitter_username": "Unipioneer",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "BXNiM7pqt9Ld3b2Hc8iT3mA5bSwoe9CRrtkSUs15SLWN",
+        "twittera_name": "absol",
+        "twitter_username": "absolquant",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "D7HRiKDNxfwV4KUMdeV4HrWCQn9uDovWZXxS7X6L6pJi",
+        "twittera_name": "Glaucus",
+        "twitter_username": "0x_Glaucus",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "3FF3nJF1gCgTqFTa5Xf8XVf45njxJLTJeCZ2RBAtP2Rw",
+        "twittera_name": "Home",
+        "twitter_username": "homeMetaX",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "D1H83ueSw5Nxy5okxH7VBfV4jRnqAK5Mm1tm3JAj3m5t",
+        "twittera_name": "Jeets",
+        "twitter_username": "ieatjeets",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "DNdptz92QMn6MXC7m6sR5MEDgrhsw53fa3RtduFJRJGf",
+        "twittera_name": "山河",
+        "twitter_username": "shanheBTC888",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "5Jj2zLfoeFbMSbhVwGQW2woPcKznPrFZ3FSruPuadgLJ",
+        "twittera_name": "Ainz",
+        "twitter_username": "ainzrules",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "2eZWYq5YFozRjLr4RAZWnfgFdbHwNfj6HDmLc4Bq1abP",
+        "twittera_name": "MarkusManson",
+        "twitter_username": "markusmanson",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "3nvC8cSrEBqFEXZjUpKfwZMPk7xYdqcnoxmFBjXiizVX",
+        "twittera_name": "Value & Time",
+        "twitter_username": "valueandtime",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "6BqTPZzgNZx7XYK2u1fdFSqGfAj6sFk9rMhznYY171qP",
+        "twittera_name": "Xiaozhu🐸",
+        "twitter_username": "hutflow",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "AiinnQCyXLvwT7vaBc3Dn7bTF65cSNm2s5hFmazsUm48",
+        "twittera_name": "Ｄ４Ｏ",
+        "twitter_username": "D4Ocrypto",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "6vLZXf63AaoWvJ52YZxwUhwAmUS3n9HsoGMTVHHyUE1k",
+        "twittera_name": "Aku.edge🦭",
+        "twitter_username": "A4lLfa7",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "Q9j4YKVjRu5HhV5aEZuKeCmQFsytEhZgTsGAchQXSVM",
+        "twittera_name": "Solvenant",
+        "twitter_username": "solvenant",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "A9UsgJ3GE3n3qbeZ7Ej6z5uCFkLV2qJgxTP6wkh1Ea7V",
+        "twittera_name": "就叫19",
+        "twitter_username": "nineteen_888",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "5uLR7pWyKtFENaUbTJeWq2WzbEF445RybjZ1j5YCfcSR",
+        "twittera_name": "可乐",
+        "twitter_username": "klklttkx",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "GaxVqiQyJKQDRu6H4pfy9V6Xq19pHGr6HQKDQDv911Y4",
+        "twittera_name": "metasal",
+        "twitter_username": "metasal",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "8V1E8NSZk7v56jtBpfsMvE3unayqN3sU9zzY6BfTAMBE",
+        "twittera_name": "Hito⚡",
+        "twitter_username": "Hitokirivon",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "FCJrpEMZ9fh7iKyixFmJx6HqkAz82DW8tmgRWZYBHXDo",
+        "twittera_name": "Seinde",
+        "twitter_username": "THE_INKSOMNIA",
+        "chain": "SOLANA",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x71f9bfa797e8776011d8358db9e8f437623306da",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x71a524f5c3fed011bf1c4507d9fe3617e354fc6e",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xad4bdcafab490b8663d072c0161fdfd971684895",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xa8e4af2092cfdd6061cff853497bb96b0e62930b",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x357862210f0a40430ac56af2efdc30644c147a6b",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x74aa9d8f800e70a8589433e0eebd2d2e5e5c68c0",
+        "twittera_name": "Pioiic 👾",
+        "twitter_username": "piopio_iic",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xae425b91728436762762489df07b7d74963c85d0",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xfb4e4fa492217d8401aa9e893c78707b61923953",
+        "twittera_name": "小财神🔶BNB（恶俗企鹅版）",
+        "twitter_username": "0xZhang_Crypto",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x6a92b04612f647f048c24951673d45471c7e18c7",
+        "twittera_name": "BA",
+        "twitter_username": "RAKESHG07469554",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xf59df32365dbd9a5953f993e044c99f0691e2809",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x8f49b4ce0c830f57136ae82bdc1f41d340605641",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x86a7d4ab311c2bda173c72ca18454a06c975479c",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x120c26c0df54e5ca89710ea817e68fefdee7179d",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x246eb14ffadcfc1ac9b27366a68f755c4e88070b",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xe6600499645dcafd894ccb474dc47d2f586011f3",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x6f96a653bbc7142eb9a09d45548c2c8b0b54c633",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x62f002d44aa612162bcbde37acbb9006bf501822",
+        "twittera_name": "青眼的究极龙",
+        "twitter_username": "Yf1cmyYGCyEB4wJ",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xca4203da5e0ddc3d9287bb321b51635e6116e56f",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x348d5bdb99f5dfeb41d76864b28b053c9f38ac9d",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xb90d9ea599c2634069ae4d5eecc5ab7234a81a05",
+        "twittera_name": "从零开始的打狗生活",
+        "twitter_username": "cryptomoon520",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x771e21d4a8044bc1c65ab93a00e1cd170f7533de",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xe9e08a04bf6e3484dc1f38ef9d12061fa17ff61a",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xb3690b8ff6844a5c62e4bd686ec01c9e7ff11739",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xdcbc1a090583861bb440391e6c7185203bda1934",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x075525a12368282b838cd3223e64bd437b416620",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x1043e290260b7d9e00958e75f4a2e65b328a2a39",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x9cedbba68152f848750332946b9995c5551267fb",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xd171ebe9d3c1e55d918563107b0b7782948dd52c",
+        "twittera_name": "YYYzzy | GDC",
+        "twitter_username": "YYzzy_diamond",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x4a60845b211e6c0a5a5b51784a21e670bc7b5ff0",
+        "twittera_name": "普陀区4号男技师",
+        "twitter_username": "DovariMadhubabu",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x4f215063f86567541361b91137b9bc61692c3cfd",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x55fade80e573c4594b0dd73041297024f1f2ee95",
+        "twittera_name": "0X财神",
+        "twitter_username": "0xcaishen_1",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x2fadbc8dead63fe9d71505862a7d17864d04e7ac",
+        "twittera_name": "Starting",
+        "twitter_username": "StartinqSol",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xf00111a219df87a3b8eedcb11e31c850c1738294",
+        "twittera_name": "XAzt",
+        "twitter_username": "fngsho549374162",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x28626429532dad5fd4b2c8aa4bd7452ecd2cb444",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x8744e449857c286e98aece4a6bba3b55ad991c44",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x10b0557794437737c02a2e7d4f81891d77f7ace1",
+        "twittera_name": "搞钱不算南 🔶 BNB",
+        "twitter_username": "0xnAnn",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xb9ef717fd78747bb11544364ae5c45e056466f00",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x48ca47caebf7587d2b3a786be18eda0b85558a56",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x2fb7ab6593de9b1eecc03bf6afa670c1c1a6d2f4",
+        "twittera_name": "gm通用汽车🚙💫",
+        "twitter_username": "generalmotors69",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x53350e89a19c3fcb889d2e83b190059ee92808d1",
+        "twittera_name": "他们叫我天才（每日骂跌糊）",
+        "twitter_username": "Tc0Dir",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x8258481fbc76e355f021a1a1c89ee8436a3fea47",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xe17df7494295665edb9312b1b07e033dd38a89d5",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x4d0e5759e4f2af31b93b25277b77b7c59dbb1f9c",
+        "twittera_name": "Yeon🔶BNB",
+        "twitter_username": "yeonwoo1102",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x0abb84c976d07b97c1e23b7bfa88bc1f3d9f1fd8",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xb34b234265329238adfc33f17b1cd5025ea4d124",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xd031740cd9f1979f58d676d3025fc3eeefe15663",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x10d5dc8a029e2cdab14f147ad05e7857326deaed",
+        "twittera_name": "张小鱼🔶 BNB",
+        "twitter_username": "web3laoA",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xf06623d220c17eb2e5412949b19fe5ab05fa637a",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x3587a527c9ebcaf25e698c309210c811e373df18",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x2a68825ade92aa25c6132c5c2884c0547a8d547c",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x58715ffcec2c28b317f221b5c09b3bd19b67bed3",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x6ad359f8e83b95ed1474b25a7075c186a2005744",
+        "twittera_name": "Pepe🐳",
+        "twitter_username": "Pepetop50",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x51951a7c0c3de260b2bd7dce0288e18bca793dc6",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x0658eeba0669f3403dc941b5adcdd33c1291eb86",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x888fce769539b4a5d6843367c63c27a6e3ad64f0",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xe9c4c7a243191961af4fd4df44cafe0fafcb2917",
+        "twittera_name": "Cendol 岑铎",
+        "twitter_username": "Cendolnice",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x29f9a269ca2d7acbd8d63e58b72b47d47c199b65",
+        "twittera_name": "贪婪",
+        "twitter_username": "sloptop101dog",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x183a3300f8939e39cafa6d5801a8a3fd73e4babb",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x9e75a58d70d4afec7c4eb7801ba7d373d033604c",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x6b5374459d16079c6e6d6c3e395d237b42fb95cb",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xd3977b845c99bbdfef94418698fd41b234af98be",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x5b6560900ab57368c5127536e9ac9dbcbd61e942",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x480956cf3b5bfe9de20f648cc4ac2b7d2be5116a",
+        "twittera_name": "小猪快跑",
+        "twitter_username": "naderabdou225",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x57fda04be5463fb7e8b4687d53d05e7965833a5e",
+        "twittera_name": "周防",
+        "twitter_username": "Ying540",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x88c1f0de657202185deac5d87f699e3126de071c",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x5fffa7c07f46f64e8192d8e5c71c969192f75976",
+        "twittera_name": "毛毛酱",
+        "twitter_username": "lylmeason",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xdc6b9d500d26ac3dd43f783f4ada4d6c37205232",
+        "twittera_name": "K99 | 1000X GEM",
+        "twitter_username": "K99eth",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x2b739e4acd1b53132be487d57bbd71b7e8768057",
+        "twittera_name": "PStar",
+        "twitter_username": "IShowMemecoins",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x1390fd6f30d3f7bcf5a997ad3b51eea2fe9be324",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xd70fac4b9bc97a115e5599793ebd29e470ba324c",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x6d6a1e6a932491317a58c1a7a96bf6a651bc5562",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x1b0e65a1bc310b06da847cfcd1bb58f879bd8a35",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x671ca46a9500aeea5c97dd74f19a58284d75b212",
+        "twittera_name": "Bastyy",
+        "twitter_username": "nba_Basti",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x0f647fc700ba70d4d8ceb7e4efaca071fc200272",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x1868cb0027a29dcd661e914553573dedb4efcebe",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xfe8d6dd17db7a9a17c08012370b6ed2c6e6e0549",
+        "twittera_name": "北慕",
+        "twitter_username": "beimu4911",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x812127a34ac57ae7495216aa68a6f0de6bdca7cf",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x04f7190a75a63cfdc0e5f9c92d7a247fb7ddcff4",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xfe8c372b385dee60e407e5f63f39ec977bd5a6d3",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xa455526addd987d082c2ff66811cc7fa1762c0e0",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x8e6b3c9c72ca592bbab470f761fa869c174e9ea0",
+        "twittera_name": "佩奇",
+        "twitter_username": "twisterchessur",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x29d5aafbd2f5591666b5fd6c46e07ba1bc5e9191",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xc0a89765eea1057ed3b30ae5905b40b91fd7acad",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x7737ef4e4401047c49f7963a79bcf0d74e6cda81",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x9dc65d1ab703d7fc28e9a5aa50f03e6b7ec047bf",
+        "twittera_name": "JyEE",
+        "twitter_username": "Web33Jey",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x03eeabd67df7ab93479d4352a65c68d15e504855",
+        "twittera_name": "宇智波斑🔶BNB",
+        "twitter_username": "kimberl05218243",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xcc264070a633591502f16a19ecffb4851ba2c2d7",
+        "twittera_name": "Icyy",
+        "twitter_username": "Theicyy1k",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x653c7adf8d8920302243a1dcc628ee6a0bf22701",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x043556a4f36636f087e33a9556aa11e9fa37c826",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xd55cab420af34bb42999c4197ec9ca891a34df2e",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x05c2603f3f971c527d11a3fcfae529284e86bff2",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x509b91c56984312dbe5903f4cb93d7d7d5221cdc",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x47b673e452ab55d893e762e92608b2f8eae0200a",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x137f56d02d45fc4223eb8b855b4610605cb6010b",
+        "twittera_name": "",
+        "twitter_username": "",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0x809052875938ff9c4ed69aa09ff46fc30b9de0d2",
+        "twittera_name": "Axoul",
+        "twitter_username": "Axoul_ark",
+        "chain": "BSC",
+        "tag": "smart_degen_pump_smart"
+    },
+    {
+        "address": "0xd216cf8ee73da8438a3e57dc63703043cfb6e075",
+        "twittera_name": "Web3第一深情【🔸BNB 先信CN】",
+        "twitter_username": "Web3shenqing",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x2bf7befc0b8d2318c4416f5fc80dfc45f12facab",
+        "twittera_name": "零一",
+        "twitter_username": "Ox011111",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xffe837d04f349e5c48d948c69d9212d8197505de",
+        "twittera_name": "猫叔.Camellia",
+        "twitter_username": "Yizhimao_super",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x0eab4aac96834745010c8951b6e75c3325b4b7c3",
+        "twittera_name": "GEM来财",
+        "twitter_username": "gemlaicai",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xcfe30db196c9a99fc80c72ad44fb4a135a53491f",
+        "twittera_name": "旭旭宝宝|🔶BNB",
+        "twitter_username": "xuxubaobao0819",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x26300eeafdf64a24d19d149f67d44aab249e4e30",
+        "twittera_name": "钻石手阿泽",
+        "twitter_username": "FatihaAbid",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x11db1321c3f926334eb155d5fe704f6b2ff6a2f9",
+        "twittera_name": "达达",
+        "twitter_username": "andrea1982amor",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xe18c8685818cb936dc2448be33349da61b412a4d",
+        "twittera_name": "Yesp 🔶",
+        "twitter_username": "yesp999",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xc9e4a15b6795a0cf97206218b52e20d78bc13145",
+        "twittera_name": "ilikeshitcoinz🔶️️️️️️",
+        "twitter_username": "alexmaxbid",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xd3a71f80906876d063321ccb125f2f214993de17",
+        "twittera_name": "好柿豆花生",
+        "twitter_username": "czcz42049382444",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x085111103c78e708199e1779789eefe9529d5d3a",
+        "twittera_name": "我是围棋高手（相信bsc版）",
+        "twitter_username": "0xweiqigaoshou",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xa7bfa56d1fbb7809b8424b452896707be408e1bc",
+        "twittera_name": "CryptoCharming 🐟",
+        "twitter_username": "CryptoCharming",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x06970464c8b936cda744a454a33f2206dbbbfe49",
+        "twittera_name": "Gem",
+        "twitter_username": "summerrainy888",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x0f84d2da979180394fbf9c4499febd0f602a6767",
+        "twittera_name": "Sunny",
+        "twitter_username": "Sunnyikes",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x5b2dda1f006a10bd894b308aaaf2309cbea1419f",
+        "twittera_name": "20岁的枯坐炒币少年",
+        "twitter_username": "0xXian",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x95701259b045f972b06089e5ba498d463f627aa2",
+        "twittera_name": "海豚哥🐬",
+        "twitter_username": "ht78221",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x53a9f47eeddbfbae527d259a742f1ecfd0592844",
+        "twittera_name": "摸金校尉 | 0xBclub | 🔶 BNB MemeMax⚡️",
+        "twitter_username": "0xBclub",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xdb1b769d9d10ad6f5698529e3277d434ecec5124",
+        "twittera_name": "Doggo（A8 版）",
+        "twitter_username": "quxiansheng66",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x5250dbcf6ac11c4c2cbd8dcaf5a6d019f3268ea8",
+        "twittera_name": "CoCo❕",
+        "twitter_username": "CoCoCookerr",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373",
+        "twittera_name": "枯坐p小将",
+        "twitter_username": "rob02643673_rob",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x664d6645a04be9e27a8b33088f85025f29d45dc1",
+        "twittera_name": "Tavern",
+        "twitter_username": "TurtleTavernTV",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x9ba457f105bffac35d67138fecb32a86428c02a2",
+        "twittera_name": "Felix",
+        "twitter_username": "0xFelix",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x904a5d05d72a0575c6a60f7de7566abc2ac331e2",
+        "twittera_name": "bandit",
+        "twitter_username": "bandeez",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x82b63cad46034631a96187cfee912c84ac3356dc",
+        "twittera_name": "Van 🔶 BNB",
+        "twitter_username": "0xVan000",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xf02e0ec0621a35a176db8c45a689a3abc1447fa6",
+        "twittera_name": "土狗大玩家|Bird🕊️",
+        "twitter_username": "tugouplayer",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x43a69946bc684cf96ea5b3e21ddf76e41d51b429",
+        "twittera_name": "Fan｜1000X GEM｜🔶BNB",
+        "twitter_username": "Ri_Blockchain",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xd722c57366b09c6c44c6b0e1a80760c5760f68ce",
+        "twittera_name": "凡",
+        "twitter_username": "0xfanfanfan",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xae9b2082c9ef1edc7dba94e7297a1ec00da6cbd1",
+        "twittera_name": "letterbomb 🟪🔶🟦",
+        "twitter_username": "ihateoop",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x9631335762e3603d2a7507d84838aa3236d52745",
+        "twittera_name": "Sebastian Orellana",
+        "twitter_username": "Saint_pablo123",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x3f54f91bdd8f7fe127a8a1bc37dded5fe90a595e",
+        "twittera_name": "Scharo",
+        "twitter_username": "XScharo",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xec5e7609a77226ca4d26f55b5aedf3f1506eba28",
+        "twittera_name": "Crypto伟大的💎钻石手",
+        "twitter_username": "Zg1000X",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xd911f6e80158b18bf82c08418af40483dce0f37d",
+        "twittera_name": "Glaucus",
+        "twitter_username": "0x_Glaucus",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xf03de1cdf13378159db7c11fd54fdfee5bbe534d",
+        "twittera_name": "TeachFull",
+        "twitter_username": "JinGouJiaoFu",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xf73d780514d7920c7be5dcedcfebd72920eac3b0",
+        "twittera_name": "他们都叫我水哥",
+        "twitter_username": "99X_FJTL",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x1a5a182ac9a7fb0ead66a74016bd50239c7820f7",
+        "twittera_name": "去中心花❀",
+        "twitter_username": "Xjiaohou",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xbac453b9b7f53b35ac906b641925b2f5f2567a89",
+        "twittera_name": "Dani",
+        "twitter_username": "DaniWorldwide",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x1d2a6f8dbe29dfb5bf9ad99894a3ecfc8602e226",
+        "twittera_name": "卷柏",
+        "twitter_username": "GoldenCicada",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xbc2255fb3746403cf1858a69cdabd2e9be77c538",
+        "twittera_name": "dv",
+        "twitter_username": "vibed333",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x6b0c772fdc9562d115ca2c232af54e2fffe65ccb",
+        "twittera_name": "Shark.🔶BNB",
+        "twitter_username": "sharkk777",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x176e6378b7c9010f0456bee76ce3039d36dc37c8",
+        "twittera_name": "王小二",
+        "twitter_username": "brc20niubi",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xf0f8a6479a428edd0eab965e624800585b62972c",
+        "twittera_name": "木木",
+        "twitter_username": "0xmmu",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x3db4351acea05f2c14651e735f33a256635d71c6",
+        "twittera_name": "DiDi",
+        "twitter_username": "Sinhol1",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xaf82a3e8cd907687f717eb93c76865ae94e091f9",
+        "twittera_name": "虾哥",
+        "twitter_username": "PolskaCebula",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xe4ef584eb114335ad6deedf89d845527a06e1d28",
+        "twittera_name": "小易",
+        "twitter_username": "zsf11221",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x4358cc14888517451baa0b84469221a3feef85cc",
+        "twittera_name": "花花🇨🇳",
+        "twitter_username": "huahuayjy",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xe4aab795881c36a1e199489d084822fd7188cc2c",
+        "twittera_name": "Bitcoin🐝女博士",
+        "twitter_username": "DoctorMbitcoin",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xff9f20367488f3386a97bc3897798b0e8bd1b2da",
+        "twittera_name": "Crypto_BigFish🐳",
+        "twitter_username": "Summer_venom",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x55b993ec858b45914291559497745074a7999999",
+        "twittera_name": "JinMu",
+        "twitter_username": "jinmu9",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xacb2a0649f1d62790ab3bb186e7c16b9902b62f4",
+        "twittera_name": "老白的打狗生活",
+        "twitter_username": "liang1387316",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xf78b066050e00fdb9b980e265aa9f317ef4b947c",
+        "twittera_name": "kurtz",
+        "twitter_username": "kurtzxx",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x7592ca1ad468ddac5a97a5625c1c55e36338f786",
+        "twittera_name": "Kagami",
+        "twitter_username": "yenhong123",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x7db1a182cddee6ea0483aead72efe945e11cc873",
+        "twittera_name": "表弟想自由🔶BNB",
+        "twitter_username": "Cady_btc",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xaac08acd3c2a39cc652d23731d70f48f1d938b1e",
+        "twittera_name": "bhronos",
+        "twitter_username": "bhronos",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xd03353d8a531a7b05509f35fadef3e042188bdb5",
+        "twittera_name": "nyhrox",
+        "twitter_username": "nyhrox",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x69e79314434e0fc2bfc7e6652d06a1db6cd09618",
+        "twittera_name": "52Hz.eth",
+        "twitter_username": "52Hz_eth",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0x28aa4f9ffe21365473b64c161b566c3cdead0108",
+        "twittera_name": "fierydev 💥",
+        "twitter_username": "dev_enjoys",
+        "chain": "BSC",
+        "tag": "renowned"
+    },
+    {
+        "address": "0xbd994acb9c906100dc4b8c08d2b6c28cb543425d",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xe11b294d442cd78289b599ea4cb7eed585ca0980",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xb1fe8d7274efcad6571f11465709a7df0521b2a9",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x84c0588406f6488e63ca819b8255598db0dcf238",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x0000208d547a446ba9059cbb2cfcfbaead7d3fa3",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xcbdcb14d4963a045d6517a89aab07a097230c9bc",
+        "twittera_name": "Verygud.base.eth 🟦 | ETHGas ⛽",
+        "twitter_username": "verygud_o",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x488d55242433cc911916489ee4b299b8d9dec397",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x3be876521f183b3a843ecf79c20422fd29526572",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x68adcea6f454a9c2620ee2ec0500a14d4b6e12d4",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xc2ef1173a4b051bbcc4474c407bbb2ac7e02e363",
+        "twittera_name": "Profeta🇩🇴",
+        "twitter_username": "Cryptoprofeta1",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xd2507b4958b449695201599e8d8a25f4bab5dead",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x25c256f6437de6e9ba2c0ded33b87d99bd9de8db",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xd01fe03aba9eb73ff92e2b64e22daf99458e4f54",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x347ffc6db9acc54ac2019795173b9599e8b82bd9",
+        "twittera_name": "pedrolucio.eth 🧙🏻‍♂️ (humble arc 😌🙏)",
+        "twitter_username": "opedrolucio",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x1064bc5406bc61951cb62829e71eb966a012799e",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x99843f82f271f38f6a7df2a60e91dd56e42f8334",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xee6629d668fd86d1d3533c49d1a4ddfe6b8dbb45",
+        "twittera_name": "T.O.",
+        "twitter_username": "IglooMediaBase",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x35b5f58d699e9ea3ba871f7cd3e84a803306ca16",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x711281c1b26aaed86e40e4caaf76c1962b45e161",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xcd211569a108fdac74d729ba7358a743a3c2e08d",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x110e2ca5a075be7f8a63aeec702fde5b5a43a2e0",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xe9dadd9ded105d67e6cb7aadc48be0c2d45df652",
+        "twittera_name": "agusti",
+        "twitter_username": "bleuonbase",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x090bc1fb187d938c90fc865ac54a64fa6389ed7f",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xfb7ce7b78cc7356664d42c43216ebb6c7e49b627",
+        "twittera_name": "Phantom Scribbler",
+        "twitter_username": "phantom_scribbs",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x485b536ecdb49a3b78cd456b03efb524da460f06",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x928252a99c8adef75adbac79581b11af5dfc3948",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xbc5e88747673275d2c7e5dd9c1295a4d728dede6",
+        "twittera_name": "ChipperJones~ticker is SEI",
+        "twitter_username": "CryptoDingo_",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x821d92e6e62a2004e2cec914c23a9f346add0331",
+        "twittera_name": "aomoon",
+        "twitter_username": "aomra_00",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x71ddf9acf07d4b10d6e6318a913f2f9ea4a0353e",
+        "twittera_name": "makubex",
+        "twitter_username": "iamakubex",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x7189ba2727b0cd349bf4e059c141eeb39578d245",
+        "twittera_name": "Enjooyer",
+        "twitter_username": "0xEnjooyer",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x708e787c5b4be4573a82f4322374ecd04639e586",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x896c20da40c2a4df9b7c98b16a8d5a95129161a5",
+        "twittera_name": "(Taco) Player1Taco.eth/.sol 🛡️ Building/Locked In",
+        "twitter_username": "Player1Taco",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x7bfca252bff95f218eca93f5d042b85d7195fa6a",
+        "twittera_name": "Mark Rizzn Hopkins",
+        "twitter_username": "rizzn",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x9dd9110405b6362ed5b9efb43644fe5520fe9deb",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xa946c445bf7f1675309fcd3a968da4da4e3a107a",
+        "twittera_name": "med🩸",
+        "twitter_username": "Cryptomed6",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xa97411bbbf15a3a2f425f816489f319c546f6706",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xc3d9ca74d559709743c0d0611b958a7c98509bc1",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x126902db5abf36f809ffe14b6f1b8065b53a4f42",
+        "twittera_name": "Shiv ✍",
+        "twitter_username": "Shivfreespirit",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x42fbff25c0237b15dd2966065f72908bd8059289",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x9f041fbbc6fd007115dae9bd1ce6001b26747797",
+        "twittera_name": "τhebeliever",
+        "twitter_username": "koonlint",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x51f6749dee3510f983c15b7c239cc6df4e4054ea",
+        "twittera_name": "Rennegade",
+        "twitter_username": "Stucolley",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xc11b273ce83320507b15b0debab1918ce4451968",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x641db7953a983005ae5847ec3180a7b0af24baa5",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x539f881212a85b0f47e9b0ef4f6568e54ce8efaf",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x1ff39dc9671b3ec82381ff830b75cfacee496d47",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xc30cf256dfc731193a4fe2b02c89bf1815ec70a5",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xa13a8b8039b6e8e26b1763b0e7e9ec992a73b996",
+        "twittera_name": "KingOfVe33",
+        "twitter_username": "NonVitalTooth",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x160db2a5c6d1aefbcca1e36850bff0afbfabe221",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x55b668e1aea8d19e358661be78b665bc25428d29",
+        "twittera_name": "mawanshuooo",
+        "twitter_username": "MaWanShuooo",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xb418df4a5336c47554f46a50e05640d3a2b33329",
+        "twittera_name": "AB Kuai.Dong",
+        "twitter_username": "_FORAB",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x2849857d9b640fd2104c4607c6c23dec3c798370",
+        "twittera_name": "0xJy 🧲🔶 BNB",
+        "twitter_username": "0xJyEth",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xffed8b8c0dc8d2b378a75542b0a077263990f8ca",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x3f869e66797fef84aee8ed4ca914790df9332a1d",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x50275e7e7363abf4758d20050898003227d3126f",
+        "twittera_name": "BrTK",
+        "twitter_username": "0xBrTK",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xd7af5ea14fad145b2d9fd57e321d7bf8301980b5",
+        "twittera_name": "vorgtrom",
+        "twitter_username": "vorgtrom",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xb3397a6feedff2b9fce9ca1086cb1bdd617c16bf",
+        "twittera_name": "Kristoph Galland ❌",
+        "twitter_username": "kristophgalland",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xbc6cbc95d86a6a9537375640fbc0cf0db8024268",
+        "twittera_name": "Zack Brenner",
+        "twitter_username": "zjbrenner",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x9d34151abe8d1594e74f463d350840119ab0689b",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x5da2690b20cdafb31eee5ccacfd59009326e9e28",
+        "twittera_name": "• ᴗ •KevinEP",
+        "twitter_username": "KevinFKeveryone",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xc0bb478ad60ce0dcd3ea61496e37d5e0302158e0",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x3391a39a1b508e54a361924a26056c01c1c2c07d",
+        "twittera_name": "Reljoo",
+        "twitter_username": "Reljoooo",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x86788933928fb1cb4700e80a2936b3344a1ae9c7",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x49e53fb3d5bf1532febad88a1979e33a94844d1d",
+        "twittera_name": "script (🛠, 🤖)",
+        "twitter_username": "scriptdotmoney",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x61fd0d043d519f5a2bd05785000f30db96809429",
+        "twittera_name": "0xuezhang|985.eth",
+        "twitter_username": "Unipioneer",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x000461a73d3985eef4923655782aa5d0de75c111",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xec9e512fe7e90134d8ca7295329ccb0a57c91ecb",
+        "twittera_name": "Maxwell",
+        "twitter_username": "maxkarlan",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xecd1f3e99caa4cdbf174ad12ce79d89a8ba54fca",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xdf1e3abb229d42a182ad61ce8a63355a8a3eb0f8",
+        "twittera_name": "MarkyMark",
+        "twitter_username": "MarkyMarkETH",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x73fc18592387b0fe74cf1230e0ead82471587017",
+        "twittera_name": "bihoz",
+        "twitter_username": "bihozNFTs",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xb893ae8a1824604f6df4dfde52e2754921ba1a73",
+        "twittera_name": "Bitman",
+        "twitter_username": "BitmanTW",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x2fcc020f72e5d2edd2a24d04f3dc90d7fdfbd1dd",
+        "twittera_name": "τop τick crypτo 📁 🤖🧠",
+        "twitter_username": "toptickcrypto",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xd3abaa759af897122c876b87cf386f748cb213a8",
+        "twittera_name": "King.sol 🇶🇦",
+        "twitter_username": "teddi_speaks",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xa8a224f5f46189fa1889aa62b72909c50e1e0143",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xf41e3186861afb9840ea3c87f00366440a648320",
+        "twittera_name": "Nach",
+        "twitter_username": "NachSOL",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x5d9daff2e1e2d62d01da2737a0039dacf4a7de96",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x6d73f2a9b41d79ac3ee33f503bc50c48e2e2a6a9",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x8dfb37aae4f8fcbd1f90015a9e75b48f50fd9f59",
+        "twittera_name": "rxbt 👾",
+        "twitter_username": "0rxbt",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x11f77d97b12a2b47b0ea851dbce41a4eda5b7a7b",
+        "twittera_name": "M E M E 🍳 S T A R",
+        "twitter_username": "qvexo",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x43424e49587aae46066cbc857128b7f5b2138342",
+        "twittera_name": "Johkar",
+        "twitter_username": "Ianniss2010",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xd387a6e4e84a6c86bd90c158c6028a58cc8ac459",
+        "twittera_name": "Pranksy (Wooloo Arc)",
+        "twitter_username": "pranksy",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xc8d3dbde405f21e0fa68f8213a90bc1bdb38840f",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x1466f5596c439142b6f39723eed27c117a97f8ed",
+        "twittera_name": "バンケラ🇯🇵情報屋エアドロップ仮想通貨Airdrop .edge🦭",
+        "twitter_username": "BankeraDao",
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x172bc87c3eadc21606d62825398fd24d6d6961ef",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0xbd3183a293b3bea81479be052491207f1a328adf",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x6ece0522d21bcc5d4493b1d9e7bb54242722c35f",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x707c2744e8e4160760f0252ae31de4f39eb4b0b0",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x95ca218b746c11e7dcae21a13378ab7c6e522b9c",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x492cba689a5560e98008c4d032a139f5c0d1ff6e",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x347c21c48cb72dc12e8efcbdec92b39d58f26cad",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x4568034a904e15e2c319c3906cf05c4f41bcb7d6",
+        "twittera_name": null,
+        "twitter_username": null,
+        "chain": "BASE",
+        "tag": "default"
+    },
+    {
+        "address": "0x394b0ca58672253287a2b4bb2ee8ae73d3bad4c2",
+        "twittera_name": "marcobutters",
+        "twitter_username": "marcobutterseth",
+        "chain": "BASE",
+        "tag": "default"
     }
 ]
